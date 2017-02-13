@@ -11,4 +11,4 @@ pip install MySQL-python</br>
 5.在zabbix的web界面中的configure栏目找到templates，点击templates 点击右上角的import，将templates目录下的zbx_percona_mysql_template.xml导入到模板里面</br>
 ##**OX01 notice**</br>
 mysql的配置信息需要在脚本中修改</br>
-如果开启缓存，缓存文件在mysql脚本中可修改，并且在创建缓存文件的时候修改缓存文件的other拥有写的权限
+如果开启缓存，缓存文件在mysql脚本中可修改，并且在创建缓存文件的时候修改缓存文件的other拥有写的权限，如果zabbix的数组和当前执行的用户不是root用户的话
