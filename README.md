@@ -12,5 +12,8 @@ pip install MySQL-python</br>
 ##**OX01 notice**</br>
 mysql的配置信息需要在脚本中修改</br>
 如果开启缓存，缓存文件在mysql脚本中可修改，并且在创建缓存文件的时候修改缓存文件的other拥有写的权限，如果zabbix的数组和当前执行的用户不是root用户的话</br>
-##**OX02 联系**</br>
+##**OX02 参考**</br>
+参考了percona公司提供的插件，进行二次重写</br>
+##**OX03 联系**</br>
 如有任何建议/问题联系 sixgod_wang@hotmail.com
+
