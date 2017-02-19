@@ -15,5 +15,5 @@ mysql的配置信息需要在脚本中修改</br>
 ##**OX02 参考**</br>
 参考了percona公司提供的插件，用python进行改写</br>
 ##**OX03 联系**</br>
-如有任何建议/问题联系 sixgod_wang@hotmail.com
+如有任何建议/问题联系 shouc.wang@gmail.com
 
